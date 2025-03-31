@@ -43,20 +43,7 @@ SMOTE (for data balancing)
 CTU-13 Dataset
 Real-world labeled traffic data including Botnet, Normal, and Background activity. Source: CTU University, Czech Republic.
 
-📂 Project Structure
-bash
-Copy
-Edit
-📁 cyber-threat-detection/
-├── data/                 # Preprocessed CTU-13 CSV files
-├── models/               # Trained model scripts
-├── notebooks/            # Jupyter Notebooks for each model
-├── results/              # Accuracy plots, confusion matrices
-├── README.md             # Project overview
-└── requirements.txt      # Python dependencies
-
 📌 Highlights
-
 Data preprocessing: PCA, normalization, SMOTE
 Visualizations: Heatmaps, accuracy/loss curves, confusion matrices
 Hybrid modeling for improved robustness
