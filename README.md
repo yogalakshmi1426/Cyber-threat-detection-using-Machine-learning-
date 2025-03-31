@@ -1,5 +1,5 @@
-Cyber Threat Detection Using Machine Learning
-This repository contains the code and resources developed for my MSc Computer Science dissertation titled "Cyber Threat Detection Using Machine Learning" at the University of Sussex.
+*Cyber Threat Detection Using Machine Learning
+This repository contains the code and resources developed for my MSc Computer Science dissertation titled "Cyber Threat Detection Using Machine Learning" at the University of Sussex.*
 
 **📖 Overview**
 
