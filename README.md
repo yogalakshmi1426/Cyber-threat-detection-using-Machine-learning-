@@ -18,31 +18,51 @@ Propose improvements using data preprocessing, feature engineering, and ensemble
 📊 Models Implemented
 
 Support Vector Machine (SVM)
+
 Long Short-Term Memory (LSTM)
+
 Logistic Regression
+
 Random Forest
+
 Hybrid Model: SVM + LSTM
+
 Hybrid Model: Random Forest + Logistic Regression
+
 
 📈 Key Results
 
 Model	Accuracy
+
 Support Vector Machine (SVM)	89.51%
+
 Long Short-Term Memory (LSTM)	96.77%
+
 Logistic Regression	85.17%
+
 Random Forest	99.62%
+
 Hybrid: SVM + LSTM	94.90%
+
 Hybrid: Random Forest + LR	99.60%
+
 
 🛠 Technology Stack
 
 Python
+
 Jupyter Notebook
+
 Scikit-learn
+
 TensorFlow / Keras
+
 Pandas / NumPy
+
 Matplotlib / Seaborn
+
 SMOTE (for data balancing)
+
 
 🧪 Dataset
 
@@ -52,9 +72,13 @@ Real-world labeled traffic data including Botnet, Normal, and Background activit
 📌 Highlights
 
 Data preprocessing: PCA, normalization, SMOTE
+
 Visualizations: Heatmaps, accuracy/loss curves, confusion matrices
+
 Hybrid modeling for improved robustness
+
 Real-time detection considerations using sequential models like LSTM
+
 
 📚 Acknowledgements
 Special thanks to Professor Daniel Creed for his continuous guidance and support throughout the development of this project
