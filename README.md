@@ -14,17 +14,12 @@ Evaluate model accuracy, precision, recall, and F1-score.
 Propose improvements using data preprocessing, feature engineering, and ensemble modeling.
 
 📊 Models Implemented
-✅ Support Vector Machine (SVM)
-
-✅ Long Short-Term Memory (LSTM)
-
-✅ Logistic Regression
-
-✅ Random Forest
-
-✅ Hybrid Model: SVM + LSTM
-
-✅ Hybrid Model: Random Forest + Logistic Regression
+Support Vector Machine (SVM)
+Long Short-Term Memory (LSTM)
+Logistic Regression
+Random Forest
+Hybrid Model: SVM + LSTM
+Hybrid Model: Random Forest + Logistic Regression
 
 📈 Key Results
 Model	Accuracy
@@ -34,19 +29,14 @@ Logistic Regression	85.17%
 Random Forest	99.62%
 Hybrid: SVM + LSTM	94.90%
 Hybrid: Random Forest + LR	99.60%
+
 🛠 Technology Stack
 Python
-
 Jupyter Notebook
-
 Scikit-learn
-
 TensorFlow / Keras
-
 Pandas / NumPy
-
 Matplotlib / Seaborn
-
 SMOTE (for data balancing)
 
 🧪 Dataset
@@ -65,13 +55,15 @@ Edit
 ├── README.md             # Project overview
 └── requirements.txt      # Python dependencies
 📌 Highlights
+
 Data preprocessing: PCA, normalization, SMOTE
-
 Visualizations: Heatmaps, accuracy/loss curves, confusion matrices
-
 Hybrid modeling for improved robustness
-
 Real-time detection considerations using sequential models like LSTM
 
 📚 Acknowledgements
 Special thanks to Professor Daniel Creed for his continuous guidance and support throughout the development of this project
+
+📝 License
+This project is not licensed for public or commercial use. It is uploaded solely for portfolio and job reference purposes.
+Please do not copy, reuse, or distribute any part of this work without explicit permission.
