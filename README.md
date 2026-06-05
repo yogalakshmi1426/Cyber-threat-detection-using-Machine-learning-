@@ -41,7 +41,7 @@ from real botnet attacks, making the results directly applicable to
 production security environments.
 
 
-
+'''
 Raw Network Traffic
 ↓
 Data Cleaning + Preprocessing (pandas)
@@ -55,7 +55,7 @@ Dimensionality Reduction (PCA)
 Random Forest Classifier
 ↓
 99.6% Accuracy on 18,443 test samples
-
+'''
 ---
 
 ## Why Random Forest?
